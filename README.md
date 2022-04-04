@@ -1,2 +1,2 @@
-# snake.py
+# pong.py
 #import turtle 
