@@ -1,2 +1,1 @@
-# pong.py
-#import turtle 
+# Data set for gans
