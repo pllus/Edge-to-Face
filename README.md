@@ -1,4 +1,4 @@
-# Edge to Face
+# Edge to Face || PROJECT FOR AI BUILDERS 
 [Detailed Version](https://medium.com/@nitisarath/edge-to-face-683005cdbbb6) <<<<
 
 <h1> Edge to Face With Pix2pix Gans </h1>
